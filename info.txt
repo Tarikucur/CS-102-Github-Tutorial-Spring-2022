@@ -1,2 +1,19 @@
 Undertale - My favorite video game.
 Ahmet Tarık Uçur - 22102946 - https://github.com/Tarikucur
+
+PS C:\Users\Lenovo\Desktop\CS-102-Github-Tutorial-Spring-2022> git log
+commit 45824b4c7240026e6780631ffda448d83f65f78e (HEAD -> main, origin/main, origin/HEAD)
+Merge: 776a583 3708f73
+Author: Ahmet Tarık Uçur <91345134+Tarikucur@users.noreply.github.com>
+Date:   Thu Feb 10 10:15:24 2022 +0300
+
+    Merge pull request #1 from Tarikucur/new_information
+    
+    I added my favorite video game in the entry of info.txt
+
+commit 3708f73175768809e9ecaf69cf3f66e5041b2bd9 (origin/new_information, new_information)
+Author: Ahmet Tarık Uçur <av.atarikucur@gmail.com>
+Date:   Thu Feb 10 10:13:17 2022 +0300
+
+    I added my favorite video game in the entry of info.txt
+:
